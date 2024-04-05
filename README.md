@@ -1,5 +1,6 @@
 # Voice Assistance
 This Python script implements a voice-controlled assistant that utilizes speech recognition to understand user commands and text-to-speech synthesis to respond. It can greet the user, provide the current time, open Chrome or YouTube, express gratitude, and gracefully exit upon command.
+
 Key Features:-
 1.Voice Recognition and Speech Synthesis: The code utilizes the speech_recognition library for recognizing speech input from the user through a microphone and the pyttsx3 library for converting text to speech.
 
